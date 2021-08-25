@@ -14,7 +14,7 @@ For some time now, Karamoja has been the most food-insecure region of Uganda. Th
 - What is the potential productivity, actual and missed productivity in the region?
 
 # Link
-This is the URL to the tool [https://public.tableau.com/authoring/KaramojaRegion-VisualizationTool/SummaryTable#1]
+This is the URL to the tool [https://public.tableau.com/app/profile/patrick.musyoka/viz/KaramojaRegion-VisualizationTool/SummaryTable]
 
 # Color Codes
 If difficulty is encountered in differentiating the colors used in the visualization, kindly refer from [https://colorbrewer2.org/#type=sequential&scheme=Blues&n=3]. 
